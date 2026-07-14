@@ -1,0 +1,57 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": "Administrator",
+        "full_name": "Admin User"
+    },
+    "doctor": {
+        "password": "doc456",
+        "role": "Doctor",
+        "full_name": "Dr. Kamau"
+    },
+    "nurse": {
+        "password": "nurse789",
+        "role": "Nurse",
+        "full_name": "Nurse Achieng"
+    },
+    "reception": {
+        "password": "rec000",
+        "role": "HRIO",
+        "full_name": "Faith Mwangi"
+    },
+    "pharma": {
+        "password": "pharm111",
+        "role": "Pharmacist",
+        "full_name": "Peter Otieno"
+    },
+    "morgue": {
+        "password": "morgue123",
+        "role": "Morgue Attendant",
+        "full_name": "John Doe"
+    },
+    "cal": {
+        "password": "oooooo",
+        "role": "Administrator",
+        "full_name": "cal"
+    },
+    "sam": {
+        "password": "oooooo",
+        "role": "HRIO",
+        "full_name": "sammy"
+    },
+    "tim": {
+        "password": "oooooo",
+        "role": "HRIO",
+        "full_name": "tim"
+    },
+    "jack": {
+        "password": "000000",
+        "role": "Doctor",
+        "full_name": "jack"
+    },
+    "achieng": {
+        "password": "nurse789",
+        "role": "Nurse",
+        "full_name": "Achieng"
+    }
+}

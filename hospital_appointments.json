@@ -1,0 +1,12 @@
+[
+    {
+        "patient": "Cephas Africa",
+        "doctor": "Dr.Yomi",
+        "date": "2026-07-14",
+        "time": "09:00",
+        "reason": "Checkup",
+        "status": "Scheduled",
+        "booked_by": "reception",
+        "booked_at": "2026-07-14 11:37"
+    }
+]

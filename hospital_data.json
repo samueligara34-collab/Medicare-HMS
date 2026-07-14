@@ -1,0 +1,37 @@
+{
+    "P001": {
+        "patient_id": "P001",
+        "full_name": "dan",
+        "age": 33,
+        "gender": "Male",
+        "disease": "T.B",
+        "doctor_assigned": null,
+        "days_admitted": 0,
+        "treatment_cost": 0.0,
+        "status": "Admitted",
+        "admission_date": "2026-06-11 13:22",
+        "discharge_date": null,
+        "nok_name": "mary",
+        "nok_rel": "Spouse",
+        "nok_phone": "98877888",
+        "nok_addr": "tumaini"
+    },
+    "P002": {
+        "patient_id": "P002",
+        "full_name": "victor nyaoke",
+        "age": 56,
+        "gender": "Male",
+        "disease": "miled",
+        "doctor_assigned": null,
+        "days_admitted": 7,
+        "treatment_cost": 8000.0,
+        "status": "Admitted",
+        "admission_date": "2026-07-14 11:31",
+        "discharge_date": null,
+        "nok_name": "steffee",
+        "nok_rel": "Friend",
+        "nok_phone": "097767676776",
+        "nok_addr": "",
+        "ward": "General Ward A"
+    }
+}
